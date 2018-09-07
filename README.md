@@ -28,3 +28,5 @@ Task List:
    
 - OSC Control and Enquiry (JSON)
 - Web Server based config
+
+Currently written for Python2.7 - Maybe one day 3
